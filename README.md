@@ -1,2 +1,2 @@
-# Bomber
-Bomber Game
+# Cheese-Chaser
+Mouse who has to get all the cheese.
